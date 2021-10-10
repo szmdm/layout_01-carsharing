@@ -121,7 +121,7 @@ html {
 
 .hero {
     height: 100vh;
-    background-image: url("../images/image.jpg");
+    background-image: url("images/Image.jpg");
     min-height: 700px;
     background-size: cover;
     background-position: center;
